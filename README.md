@@ -4,8 +4,6 @@
 
 This project focuses on building a predictive model to identify the likelihood of diabetes in patients based on clinical and demographic features. By utilizing machine learning and deep learning techniques, the project evaluates and compares different algorithms to find the most effective approach for early diagnosis.
 
----
-
 ## Dataset Description
 
 The analysis is based on a clinical dataset containing various health indicators.
